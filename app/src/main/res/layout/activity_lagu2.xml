@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".lagu1">
+    tools:context=".lagu2">
 
     <androidx.constraintlayout.widget.Guideline
         android:id="@+id/guideline2"
@@ -82,7 +82,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
                 android:layout_marginTop="12dp"
-                android:text="Hanya Rindu"
+                android:text="Harusnya Aku"
                 android:textColor="@color/colorPrimary"
                 android:textSize="20sp"
                 android:textStyle="bold" />
@@ -92,7 +92,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
-                android:text="Andmesh Kamaleng"
+                android:text="Armada"
                 android:textColor="@color/colorPrimary"
                 android:textStyle="bold" />
         </LinearLayout>
@@ -115,255 +115,145 @@
                 android:id="@+id/textView4"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:text="[Intro]\n\n
+                android:text="Intro :\n C F Dm G 2x C\n\n
 
-Em  C  G D C\n\n
 
-Am G/B C  D\n\n
 
+             C\n
 
+Ku tak bahagia,\n
 
+                F\n
 
+melihat kau bahagia dengannya\n
 
-[Verse]\n\n
+       Dm\n
 
-  G\n
+Aku terluka,\n
 
-Saat ku sendiri\n
+    G              C\n
 
-     D\n
+tak bisa dapatkan kau sepenuhnya\n
 
-Ku lihat foto dan video\n
+         C\n
 
-     C               D\n
+Aku terluka,\n
 
-Bersamamu yang t'lah lama\n
+                    F\n
 
-      G  C\n
+melihat kau bermesraan dengannya\n
 
-Kusimpan\n\n\n
+            Dm G             C\n
 
+Ku tak bahagia melihat kau bahagia..\n\n\n
 
 
-   G\n
 
-Hancur hati ini\n
+Reff 1\n\n
 
-    D\n
+          F               G\n
 
-Melihat semua gambar diri\n
+    Harusnya aku yang disana\n
 
-         C       D          G\n
+          Em             Am\n
 
-Yang tak bisa ku ulang kembali\n\n\n
+    Dampingimu dan bukan dia\n
 
+        Dm                   G            C\n
 
+    Harusnya aku yang kau cinta dan bukan dia\n\n
 
 
 
-[Chorus]\n\n
+           F             G\n
 
-        Em\n
+    Harusnya kau tahu bahwa\n
 
-Kuingin saat ini\n
+       Em             Am\n
 
-   C         G\n
+    Cintaku lebih darinya\n
 
-Engkau ada disini\n
+         Dm             G         C\n
 
-  D     Em\n
+    Harusnya yang kau pilih bukan dia..\n\n
 
-Tertawa bersamaku\n
 
-     C         D\n
 
-Seperti dulu lagi\n\n
+            C                    F\n
 
+Ku tak bahagia, melihat kau bahagia dengannya\n
 
+            Dm  G               C\n
 
-        Em\n
+Ku tak bahagia, melihat kau bahagia\n\n
 
-Walau hanya sebentar\n
 
-  C            G  D  Em\n
 
-Tuhan tolong kabulkanlah\n
+Reff 2\n\n
 
-  Am           C\n
+          F               G\n
 
-Bukannya diri ini\n
+    Harusnya aku yang disana\n
 
-           D\n
+          Em             Am\n
 
-Tak terima kenyataan\n
+    Dampingimu dan bukan dia\n
 
-         ( G )\n
+         Dm                 G             C\n
 
-Hati ini hanya rindu\n\n\n
+    Harusnya aku yang kau cinta dan bukan dia\n\n
 
 
 
+          F              G\n
 
+    Harusnya kau tahu bahwa\n
 
-[Interlude]\n\n
+      Em             Am\n
 
-G  G/B C D\n\n\n
+    Cintaku lebih darinya\n
 
+         Dm             G         C\n
 
+    Harusnya yang kau pilih bukan dia..\n\n
 
 
 
-[Verse]\n\n
+Int. Am F C F G\n\n
 
-G\n
 
-Segala cara\n
 
-      D\n
+Reff 2\n\n
 
-Telah ku coba\n
+          F               G\n
 
-     C     D\n
+    Harusnya aku yang disana\n
 
-Agar aku bisa\n
+          Em             Am\n
 
-      G      C  D\n
+    Dampingimu dan bukan dia\n
 
-Tanpa dirimu hooo\n\n
+         Dm                 G             C\n
 
+    Harusnya aku yang kau cinta dan bukan dia\n\n
 
 
-G\n
 
-Namun semua\n
+          F              G\n
 
-D\n
+    Harusnya kau tahu bahwa\n
 
-Ber beda\n
+      Em             Am\n
 
-      C            D\n
+    Cintaku lebih darinya\n
 
-Sulit ku menghapus kenangan\n
+         Dm             G         C\n
 
-     G\n
+    Harusnya yang kau pilih bukan dia..\n\n
 
-Bersamamu\n\n\n
 
 
-
-
-
-[Chorus]\n\n
-
-        Em\n
-
-Kuingin saat ini\n
-
-   C         G\n
-
-Engkau ada disini\n
-
-D      Em\n
-
-Tertawa bersamaku\n
-
-     C         D\n
-
-Seperti dulu lagi\n\n
-
-
-
-        Em\n
-
-Walau hanya sebentar\n
-
-  C            G  D  Em\n
-
-Tuhan tolong kabulkanlah\n
-
-  Am        C\n
-
-Bukan diri ini\n
-
-           D\n
-
-Tak terima kenyataan\n
-
-           C           Em\n
-
-Hati ini hanya rindu hooo\n
-
-  G         C      D\n
-
-Hanya rindu hooo ooo\n\n\n
-
-
-
-
-
-[Instrumental]\n\n
-
-Em  C  G  D Em  C  D\n\n\n
-
-
-
-
-
-[Chorus]\n\n
-
-        F#m\n
-
-Kuingin saat ini\n
-
-   D         A\n
-
-Engkau ada disini\n
-
-   E    F#m\n
-
-Tertawa bersamaku\n
-
-     D         E\n
-
-Seperti dulu lagi\n\n\n
-
-
-
-        F#m\n
-
-Walau hanya sebentar\n
-
-  D            A  E  F#m\n
-
-Tuhan tolong kabulkanlah\n
-
-  Bm           D\n
-
-Bukannya diri ini\n
-
-           E\n
-
-Tak terima kenyataan hoo\n
-
-  Bm           D\n
-
-Bukannya diri ini\n
-
-           E\n
-
-Tak terima kenyataan\n
-
-           A        A D E\n
-
-Hati ini hanya rindu hooo\n
-
-           A         A D E\n
-
-Hati ini hanya rindu hmmm\n
-
-                   A\n
-
-Ku rindu senyummu ibu\n"
+Outro : C F C\n"
                 android:textColor="@color/colorPrimary"
                 android:textSize="18sp" />
         </LinearLayout>

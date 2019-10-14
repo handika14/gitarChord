@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".lagu1">
+    tools:context=".lagu3">
 
     <androidx.constraintlayout.widget.Guideline
         android:id="@+id/guideline2"
@@ -82,7 +82,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
                 android:layout_marginTop="12dp"
-                android:text="Hanya Rindu"
+                android:text="Cantik"
                 android:textColor="@color/colorPrimary"
                 android:textSize="20sp"
                 android:textStyle="bold" />
@@ -92,7 +92,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
-                android:text="Andmesh Kamaleng"
+                android:text="Kahitna"
                 android:textColor="@color/colorPrimary"
                 android:textStyle="bold" />
         </LinearLayout>
@@ -115,255 +115,182 @@
                 android:id="@+id/textView4"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:text="[Intro]\n\n
+                android:text="Intro: A\n\n
 
-Em  C  G D C\n\n
 
-Am G/B C  D\n\n
 
+A     D                   A\n
 
+Cantik Ingin rasa hati berbisik\n
 
+D                C#m      Bm  E\n
 
+Untuk melepas keresahan Dirimu\n\n
 
-[Verse]\n\n
 
-  G\n
 
-Saat ku sendiri\n
+A      D                      A\n
 
-     D\n
+Cantik Bukan ku ingin mengganggumu\n
 
-Ku lihat foto dan video\n
+D               C#m      Bm  E\n
 
-     C               D\n
+Tapi apa arti merindu Selalu\n\n
 
-Bersamamu yang t'lah lama\n
 
-      G  C\n
 
-Kusimpan\n\n\n
+D                       Bm\n
 
+Walau mentari terbit di utara\n
 
+D                G   E\n
 
-   G\n
+Hatiku hanya untukmu\n\n
 
-Hancur hati ini\n
 
-    D\n
 
-Melihat semua gambar diri\n
 
-         C       D          G\n
 
-Yang tak bisa ku ulang kembali\n\n\n
+[chorus]\n\n
 
+       A                         F#m\n
 
+Ada hati yang termanis dan penuh cinta\n
 
+        Bm                   E\n
 
+Tentu saja kan kubalas seisi jiwa\n
 
-[Chorus]\n\n
+        A                         F#m\n
 
-        Em\n
+Tiada lagi Tiada lagi yang ganggu kita\n
 
-Kuingin saat ini\n
+      Bm            D         E       A\n
 
-   C         G\n
+Ini kesungguhan Sungguh aku sayang kamu\n\n
 
-Engkau ada disini\n
 
-  D     Em\n
 
-Tertawa bersamaku\n
 
-     C         D\n
 
-Seperti dulu lagi\n\n
+[int] A\n\n
 
 
 
-        Em\n
 
-Walau hanya sebentar\n
 
-  C            G  D  Em\n
+A      D                     A\n
 
-Tuhan tolong kabulkanlah\n
+Cantik Bukan kuingin mengganggumu\n
 
-  Am           C\n
+D               C#m     Bm   E\n
 
-Bukannya diri ini\n
+Tapi apa arti merindu Selalu\n\n
 
-           D\n
 
-Tak terima kenyataan\n
 
-         ( G )\n
+D                       Bm\n
 
-Hati ini hanya rindu\n\n\n
+Walau mentari terbit di utara\n
 
+D                G   E\n
 
+Hatiku hanya untukmu\n\n
 
 
 
-[Interlude]\n\n
 
-G  G/B C D\n\n\n
 
+[chorus]\n\n
 
+       A                         F#m\n
 
+Ada hati yang termanis dan penuh cinta\n
 
+        Bm                   E\n
 
-[Verse]\n\n
+Tentu saja kan kubalas seisi jiwa\n
 
-G\n
+        A                         F#m\n
 
-Segala cara\n
+Tiada lagi Tiada lagi yang ganggu kita\n
 
-      D\n
+      Bm            D         E       A\n
 
-Telah ku coba\n
+Ini kesungguhan Sungguh aku sayang kamu\n\n
 
-     C     D\n
 
-Agar aku bisa\n
 
-      G      C  D\n
 
-Tanpa dirimu hooo\n\n
 
+D                C#m\n
 
+Ingin ku berjalan menyusuri cinta\n
 
-G\n
+Bm                 D           E\n
 
-Namun semua\n
+Cinta yang abadi untukmu selamanya\n\n
 
-D\n
 
-Ber beda\n
 
-      C            D\n
+F#\n
 
-Sulit ku menghapus kenangan\n
+Heeeei..\n
 
-     G\n
+B          G#m            A  D E\n
 
-Bersamamu\n\n\n
+heya ya ya heya ya ya heya\n\n
 
 
 
 
 
-[Chorus]\n\n
+[chorus]\n\n
 
-        Em\n
+       A                         F#m\n
 
-Kuingin saat ini\n
+Ada hati yang termanis dan penuh cinta\n
 
-   C         G\n
+        Bm                   E\n
 
-Engkau ada disini\n
+Tentu saja kan kubalas seisi jiwa\n
 
-D      Em\n
+        A                         F#m\n
 
-Tertawa bersamaku\n
+Tiada lagi Tiada lagi yang ganggu kita\n
 
-     C         D\n
+      Bm            D         E       A\n
 
-Seperti dulu lagi\n\n
+Ini kesungguhan Sungguh aku sayang kamu\n\n
 
 
 
-        Em\n
+       A                         F#m\n
 
-Walau hanya sebentar\n
+Ada hati yang termanis dan penuh cinta\n
 
-  C            G  D  Em\n
+        Bm                   E\n
 
-Tuhan tolong kabulkanlah\n
+Tentu saja kan kubalas seisi jiwa\n
 
-  Am        C\n
+        A                         F#m\n
 
-Bukan diri ini\n
+Tiada lagi Tiada lagi yang ganggu kita\n
 
-           D\n
+      Bm            D         E       A\n
 
-Tak terima kenyataan\n
+Ini kesungguhan Sungguh aku sayang kamu\n\n
 
-           C           Em\n
 
-Hati ini hanya rindu hooo\n
 
-  G         C      D\n
+A          F#m\n
 
-Hanya rindu hooo ooo\n\n\n
+heya ya ya heya\n
 
+      Bm            D         E       A\n
 
+Ini kesungguhan Sungguh aku sayang kamu\n"
 
-
-
-[Instrumental]\n\n
-
-Em  C  G  D Em  C  D\n\n\n
-
-
-
-
-
-[Chorus]\n\n
-
-        F#m\n
-
-Kuingin saat ini\n
-
-   D         A\n
-
-Engkau ada disini\n
-
-   E    F#m\n
-
-Tertawa bersamaku\n
-
-     D         E\n
-
-Seperti dulu lagi\n\n\n
-
-
-
-        F#m\n
-
-Walau hanya sebentar\n
-
-  D            A  E  F#m\n
-
-Tuhan tolong kabulkanlah\n
-
-  Bm           D\n
-
-Bukannya diri ini\n
-
-           E\n
-
-Tak terima kenyataan hoo\n
-
-  Bm           D\n
-
-Bukannya diri ini\n
-
-           E\n
-
-Tak terima kenyataan\n
-
-           A        A D E\n
-
-Hati ini hanya rindu hooo\n
-
-           A         A D E\n
-
-Hati ini hanya rindu hmmm\n
-
-                   A\n
-
-Ku rindu senyummu ibu\n"
                 android:textColor="@color/colorPrimary"
                 android:textSize="18sp" />
         </LinearLayout>

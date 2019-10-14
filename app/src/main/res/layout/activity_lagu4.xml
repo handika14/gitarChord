@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".lagu1">
+    tools:context=".lagu4">
 
     <androidx.constraintlayout.widget.Guideline
         android:id="@+id/guideline2"
@@ -82,7 +82,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
                 android:layout_marginTop="12dp"
-                android:text="Hanya Rindu"
+                android:text="Cinta Luar Biasa"
                 android:textColor="@color/colorPrimary"
                 android:textSize="20sp"
                 android:textStyle="bold" />
@@ -115,255 +115,253 @@
                 android:id="@+id/textView4"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:text="[Intro]\n\n
+                android:text="[Intro]\n
 
-Em  C  G D C\n\n
+A E/G# F#m\n
 
-Am G/B C  D\n\n
+D A/C# Bm E\n\n
 
 
 
+[Verse 1]\n\n
 
+      A\n
 
-[Verse]\n\n
+Waktu pertama kali\n
 
-  G\n
+         F#m\n
 
-Saat ku sendiri\n
+Ku lihat dirimu hadir\n
 
-     D\n
+  Bm\n
 
-Ku lihat foto dan video\n
+Rasa hati ini\n
 
-     C               D\n
+         E\n
 
-Bersamamu yang t'lah lama\n
+Inginkan dirimu\n\n
 
-      G  C\n
 
-Kusimpan\n\n\n
 
+     A\n
 
+Hati tenang mendengar\n
 
-   G\n
+      F#m\n
 
-Hancur hati ini\n
+Suara indah menyapa\n
 
-    D\n
+      Bm\n
 
-Melihat semua gambar diri\n
-
-         C       D          G\n
-
-Yang tak bisa ku ulang kembali\n\n\n
-
-
-
-
-
-[Chorus]\n\n
-
-        Em\n
-
-Kuingin saat ini\n
-
-   C         G\n
-
-Engkau ada disini\n
-
-  D     Em\n
-
-Tertawa bersamaku\n
-
-     C         D\n
-
-Seperti dulu lagi\n\n
-
-
-
-        Em\n
-
-Walau hanya sebentar\n
-
-  C            G  D  Em\n
-
-Tuhan tolong kabulkanlah\n
-
-  Am           C\n
-
-Bukannya diri ini\n
-
-           D\n
-
-Tak terima kenyataan\n
-
-         ( G )\n
-
-Hati ini hanya rindu\n\n\n
-
-
-
-
-
-[Interlude]\n\n
-
-G  G/B C D\n\n\n
-
-
-
-
-
-[Verse]\n\n
-
-G\n
-
-Segala cara\n
-
-      D\n
-
-Telah ku coba\n
-
-     C     D\n
-
-Agar aku bisa\n
-
-      G      C  D\n
-
-Tanpa dirimu hooo\n\n
-
-
-
-G\n
-
-Namun semua\n
-
-D\n
-
-Ber beda\n
-
-      C            D\n
-
-Sulit ku menghapus kenangan\n
-
-     G\n
-
-Bersamamu\n\n\n
-
-
-
-
-
-[Chorus]\n\n
-
-        Em\n
-
-Kuingin saat ini\n
-
-   C         G\n
-
-Engkau ada disini\n
-
-D      Em\n
-
-Tertawa bersamaku\n
-
-     C         D\n
-
-Seperti dulu lagi\n\n
-
-
-
-        Em\n
-
-Walau hanya sebentar\n
-
-  C            G  D  Em\n
-
-Tuhan tolong kabulkanlah\n
-
-  Am        C\n
-
-Bukan diri ini\n
-
-           D\n
-
-Tak terima kenyataan\n
-
-           C           Em\n
-
-Hati ini hanya rindu hooo\n
-
-  G         C      D\n
-
-Hanya rindu hooo ooo\n\n\n
-
-
-
-
-
-[Instrumental]\n\n
-
-Em  C  G  D Em  C  D\n\n\n
-
-
-
-
-
-[Chorus]\n\n
-
-        F#m\n
-
-Kuingin saat ini\n
-
-   D         A\n
-
-Engkau ada disini\n
-
-   E    F#m\n
-
-Tertawa bersamaku\n
-
-     D         E\n
-
-Seperti dulu lagi\n\n\n
-
-
-
-        F#m\n
-
-Walau hanya sebentar\n
-
-  D            A  E  F#m\n
-
-Tuhan tolong kabulkanlah\n
-
-  Bm           D\n
-
-Bukannya diri ini\n
+Geloranya hati ini\n
 
            E\n
 
-Tak terima kenyataan hoo\n
+Tak ku sangka\n\n
 
-  Bm           D\n
 
-Bukannya diri ini\n
 
-           E\n
+[Refrain]\n\n
 
-Tak terima kenyataan\n
+   D               E\n
 
-           A        A D E\n
+Rasa ini  tak tertahan\n
 
-Hati ini hanya rindu hooo\n
+  D                  E\n
 
-           A         A D E\n
+Hati ini  slalu untukmu\n\n
 
-Hati ini hanya rindu hmmm\n
 
-                   A\n
 
-Ku rindu senyummu ibu\n"
+[Chorus]\n\n
+
+       A        E/G#    F#m\n
+
+Terimalah lagu ini dari orang biasa\n
+
+     Bm                  E\n
+
+Tapi cintaku padamu luar biasa\n\n
+
+
+
+    F#m\n
+
+Aku tak punya bunga\n
+
+E   D            A/C#\n
+
+Aku tak punya harta\n
+
+        Bm         A/C#\n
+
+Yang ku punya hanyalah\n
+
+          D\n
+
+Hati yang setia\n
+
+  E       D  A/C# Bm E\n
+
+Tulus padamu\n\n
+
+
+
+[Verse 2]\n\n
+
+     A\n
+
+Hari-hari berganti\n
+
+     F#m\n
+
+Kini cintapun hadir\n
+
+    Bm\n
+
+Melihatmu memandangmu\n
+
+        E\n
+
+Bagai bidadari\n\n
+
+
+
+       A\n
+
+Lentik indah matamu\n
+
+      F#m\n
+
+Manis senyum bibirmu\n
+
+      Bm\n
+
+Hitam panjang rambutmu\n
+
+       E\n
+
+Anggun terikat\n\n
+
+
+
+[Refrain]\n\n
+
+   D               E\n
+
+Rasa ini  tak tertahan\n
+
+  D                  E\n
+
+Hati ini  slalu untukmu\n\n
+
+
+
+[Chorus]\n\n
+
+       A        E/G#    F#m\n
+
+Terimalah lagu ini dari orang biasa\n
+
+     Bm                  E\n
+
+Tapi cintaku padamu luar biasa\n\n
+
+
+
+    F#m\n
+
+Aku tak punya bunga\n
+
+E   D            A/C#\n
+
+Aku tak punya harta\n
+
+        Bm         A/C#\n
+
+Yang ku punya hanyalah\n
+
+          D\n
+
+Hati yang setia\n
+
+  E       D   E\n
+
+Tulus padamu ohoo\n
+
+ D    E\n
+
+..huuu...\n\n
+
+
+
+       A        E/G#    F#m\n
+
+Terimalah lagu ini     hmmm\n
+
+     Bm       E\n
+
+dari orang biasa..\n\n
+
+
+
+[Overtune]\n\n
+
+      B         F#/A#   G#m\n
+
+Terimalah lagu ini dari orang biasa\n
+
+     C#m                 F#\n
+
+Tapi cintaku padamu luar biasa\n\n
+
+
+
+    G#m\n
+
+Aku tak punya bunga\n
+
+F#  E            B/D#\n
+
+Aku tak punya harta\n
+
+        C#m        B/D#\n
+
+Yang ku punya hanyalah\n
+
+          E\n
+
+Hati yang setia\n\n
+
+
+
+F#      C#m        B/D#\n
+
+Yang ku punya hanyalah\n
+
+          E    F#\n
+
+Hati yang se..tia..\n
+
+
+
+[Outro]\n\n
+
+B F#/Bb G#m\n
+
+
+
+    E          B/D#\n
+
+Terimalah cintaku\n
+
+          C#m    F#\n
+
+yang luar biasa  hmm\n
+
+          B\n
+
+Tulus padamu\n"
                 android:textColor="@color/colorPrimary"
                 android:textSize="18sp" />
         </LinearLayout>
