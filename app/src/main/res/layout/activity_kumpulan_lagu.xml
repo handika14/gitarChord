@@ -95,7 +95,8 @@
                 android:layout_marginRight="5dp"
                 android:layout_marginBottom="5dp"
                 android:background="@color/cardview_light_background"
-                android:onClick="lagu1" >
+                android:onClick="lagu1"
+                android:clickable="true">
 
                 <androidx.constraintlayout.widget.ConstraintLayout
                     android:layout_width="match_parent"
@@ -165,7 +166,8 @@
                 android:layout_marginRight="5dp"
                 android:layout_marginBottom="5dp"
                 android:background="@color/cardview_light_background"
-                android:onClick="lagu2">
+                android:onClick="lagu2"
+                android:clickable="true">
 
                 <androidx.constraintlayout.widget.ConstraintLayout
                     android:layout_width="match_parent"
