@@ -25,7 +25,7 @@
                 android:layout_gravity="center|top"
                 android:layout_marginTop="15dp"
                 android:layout_marginBottom="15dp"
-                android:text="TUTORIAL CHORD"
+                android:text="CHORD"
                 android:textColor="@color/colorPrimary"
                 android:textSize="18sp" />
 
